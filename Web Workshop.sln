@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Workshop", "Web Workshop\Web Workshop.csproj", "{B819198C-19C7-4B33-8D3C-64884EF50408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServer.Server", "WebServer.Server\WebServer.Server.csproj", "{625B33C0-4920-4F0A-88DE-7F54805B8771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B819198C-19C7-4B33-8D3C-64884EF50408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B819198C-19C7-4B33-8D3C-64884EF50408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B819198C-19C7-4B33-8D3C-64884EF50408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B819198C-19C7-4B33-8D3C-64884EF50408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625B33C0-4920-4F0A-88DE-7F54805B8771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625B33C0-4920-4F0A-88DE-7F54805B8771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625B33C0-4920-4F0A-88DE-7F54805B8771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625B33C0-4920-4F0A-88DE-7F54805B8771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

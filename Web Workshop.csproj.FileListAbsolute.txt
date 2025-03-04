@@ -1,0 +1,18 @@
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\bin\Debug\net9.0\Web Workshop.exe
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\bin\Debug\net9.0\Web Workshop.deps.json
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\bin\Debug\net9.0\Web Workshop.runtimeconfig.json
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\bin\Debug\net9.0\Web Workshop.dll
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\bin\Debug\net9.0\Web Workshop.pdb
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Workshop.AssemblyInfoInputs.cache
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Workshop.AssemblyInfo.cs
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Workshop.dll
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\refint\Web Workshop.dll
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Workshop.pdb
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Workshop.genruntimeconfig.cache
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\ref\Web Workshop.dll
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\bin\Debug\net9.0\WebServer.Server.dll
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\bin\Debug\net9.0\WebServer.Server.pdb
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Workshop.csproj.AssemblyReference.cache
+C:\Users\Dancho\RiderProjects\Web Workshop\Web Workshop\obj\Debug\net9.0\Web Work.0F8D0B01.Up2Date

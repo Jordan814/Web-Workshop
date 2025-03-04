@@ -1,0 +1,16 @@
+Create a TcpListener and accept incomming client request asynchronously
+Write a valid HTTp response and convert it to a byte array
+Add Content-Type and Content-Length headers
+Read the request in chunks 1024 bytes each and store it in a StringBuilder
+Extract separate server and HTTp classes
+Parse the HTTP request
+Create routing table which should allow various HTTP methods
+Create spicific HTTP response classes - TextReponse, for example
+Implement the ToString method for the HTTP response class
+Implement the routing tavle for storing and retriving request mapping
+Use the routing table in the HTTP server for actual request-response matching and execution
+Separate the URL and parse the query string if it exists
+Introduce the option to use the request by storing request-response functions in the routing table
+Introduce base controllers and extract common functionalities
+Shorten the route syntax and add support for controllers
+Add redirect HTTP response and use the Location header
